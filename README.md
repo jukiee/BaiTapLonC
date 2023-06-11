@@ -65,7 +65,7 @@ caro.exe
 
 ## Tác giả
 
-Ứng dụng này được phát triển bởi [Phạm Văn ](https://github.com/D-Jukie).
+Ứng dụng này được phát triển bởi [Phạm Văn Diện](https://github.com/D-Jukie).
 
 ## Đóng góp
 
