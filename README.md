@@ -4,21 +4,21 @@
 
 Đây là một ứng dụng C++ đơn giản cho phép bạn chơi trò chơi Cờ Caro trên màn hình console. Ứng dụng được viết bằng ngôn ngữ C++.
 
-# Demo
+## Demo
 <!-- Ảnh -->
-- Khởi động chương trình
+- Khởi động chương trình:
 <p align="center">
   <img src="https://i.imgur.com/peWqCo5.png" alt="Demo" width="600">
 </p>
-- Giao diện chơi game
+- Giao diện chơi game:
 <p align="center">
   <img src="https://i.imgur.com/ir5j8UD.png" alt="Demo" width="600">
 </p>
-- Kết quả trận đấu
+- Kết quả trận đấu:
 <p align="center">
   <img src="https://i.imgur.com/KrIh5e0.png" alt="Demo" width="600">
 </p>
-- Hướng dẫn
+- Hướng dẫn:
 <p align="center">
   <img src="https://i.imgur.com/9LKToeR.png" alt="Demo" width="600">
 </p>
