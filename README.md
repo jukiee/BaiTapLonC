@@ -44,7 +44,7 @@ Trong ứng dụng này, chúng ta sử dụng các thư viện sau:
 1. Clone repo từ GitHub:
 
 ```shell
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/jukiee/BaiTapLonCaro.git
 ```
 
 2. Mở dự án bằng trình biên dịch C++ của bạn.
