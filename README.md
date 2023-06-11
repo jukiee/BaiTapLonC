@@ -4,7 +4,7 @@
 
 Đây là một ứng dụng C++ đơn giản cho phép bạn chơi trò chơi Cờ Caro trên màn hình console. Ứng dụng được viết bằng ngôn ngữ C++.
 
-##Demo
+# Demo
 <!-- Ảnh -->
 - Khởi động chương trình
 <p align="center">
